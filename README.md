@@ -1,2 +1,0 @@
-# harith
-ai assignment 
